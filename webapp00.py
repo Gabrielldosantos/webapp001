@@ -19,4 +19,4 @@ st.subheader("Sub Cabeçalho")
 st.write("Como já deve ter percebido, eu curso CC!")
 
 values = st.slider("Me de uma nota", 0.0, 100.0, (5.0, 15.0))
-st.write("Values:", values)
+st.write("Valeu pela força!!!:", values)
