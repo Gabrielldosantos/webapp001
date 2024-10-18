@@ -13,7 +13,7 @@ st.title("Gabriel dos santos")
 st.header("Ciencias da Computação")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("Sobre mim")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, eu curso CC!")
